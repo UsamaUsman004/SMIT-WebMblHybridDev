@@ -1,0 +1,45 @@
+        body{
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: rgb(107,90,205);
+}
+
+
+
+.submitContainer h1{
+    color: green;
+
+}
+
+h2{
+    text-align: center;
+    color: rgb(107,90,205);
+    
+}
+
+a{
+    text-align: center;
+    color: rgb(107,90,205);
+    font-size: 40px;
+}
+
+#formDiv{
+     width: 70%;
+     margin: auto;
+     background-color: rgb(107,90,205);
+     color: white;
+}
+
+.submitContainer{
+    margin: auto;
+    width: 70%;
+}
+
+.link{
+    text-align: center;
+}
